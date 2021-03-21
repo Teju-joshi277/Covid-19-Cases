@@ -6,6 +6,6 @@ The subject of this project is a pandemic that has radically altered our lives. 
 
 The goal of this project is to put together a Dashboard that reflects the spread of the disease across the united states. 
 
-I have used John hopinks data for analysis.Please find the link of dataset below: 
+I have used John hopinks data for analysis. Used tableau prep to clean the dataset. Please find the link of dataset below: 
 
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
